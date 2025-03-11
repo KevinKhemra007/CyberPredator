@@ -18,8 +18,9 @@
 ✅ **Beautiful CLI interface with ASCII Art**  
 
 ---
-![Screenshot 2025-03-12 051655](https://github.com/user-attachments/assets/7084bd8e-bd49-452b-bbd2-4440b40fe77d)
-![Screenshot 2025-03-12 051833](https://github.com/user-attachments/assets/285a1a38-3edb-4c6b-aa6c-a4be2c5b6574)
+![Screenshot 2025-03-12 053720](https://github.com/user-attachments/assets/72750954-079c-4357-98ff-440d58ef6c33)
+
+![Screenshot 2025-03-12 053508](https://github.com/user-attachments/assets/52575571-43aa-484a-8f4a-b9d26cf23041)
 
 
 ---
