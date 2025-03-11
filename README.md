@@ -29,3 +29,6 @@
 ```bash
 sudo apt update && sudo apt install hydra medusa crunch php apache2 -y
 pip install colorama telethon pynput
+git clone https://github.com/KevinKhemra007/CyberPredator.git
+cd CyberPredator
+chmod +x cyberpredator.py
